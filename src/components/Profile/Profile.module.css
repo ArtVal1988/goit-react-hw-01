@@ -1,17 +1,10 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  list-style: none;
-  text-decoration: none;
-}
-
 .profile {
   width: 250px;
   border-radius: 5px;
   box-shadow: 0 0 1px rgba(0, 0, 0, 0.5);
   margin: 0 auto;
   border: 1px solid #e4e9f0;
+  background-color: #fff;
 }
 
 .description {
